@@ -1,0 +1,57 @@
+body{
+    background-image: linear-gradient(to bottom, #730fe6, #f307df);
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+}
+div{
+   text-align: center; 
+}
+h1,h2,h3,h4,h5,h6,p{
+    color: white;
+    font-family: "Roboto Slab", serif;
+}
+a{
+    text-decoration: none;
+    margin-left: 45px;
+    margin-right: 45px;
+    font-size: 25px;
+}
+.github{
+   color: blue;
+   border: 2px solid transparent; 
+  border-radius: 10px; 
+  padding: 15px; 
+  background-image: linear-gradient(to bottom, #FFFFFF, #0366d6);
+  padding-left: 52.8px;
+  padding-right: 52.8px;
+}
+.resumo{
+    margin-bottom: 45px;
+}
+
+.insta{
+    margin-top: 45px;
+    text-align: center;
+    color: #F58529;
+    border: 2px solid transparent;
+    border-radius: 10px;
+    padding: 15px;
+    background-image: linear-gradient(to bottom, #833AB4, #F58529);
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.linkedin{
+    margin-top: 45px;
+    text-align: center;
+    color: white;
+    border: 2px solid transparent;
+    border-radius: 10px;
+    padding: 15px;
+    background-image: linear-gradient(to bottom, #0077B5, #00A0DC);
+    padding-left: 47px;
+    padding-right: 47px;
+}
